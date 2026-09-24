@@ -1,0 +1,6 @@
+{
+  "name": "Zobly",
+  "description": "A practical, proof-driven learning and career progression system. Discover, Learn, Practice, Build, Prove, Launch, and Get Seen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
